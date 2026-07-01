@@ -1,169 +1,111 @@
 <h1 align="center">Hi there, I'm Keyza Nadine Kusuma Ramadani 👋</h1>
 
 <p align="center">
-  <b>Flutter Mobile Developer • UI Enthusiast • Vocational High School Student</b>
+  <b>Mobile Developer • Flutter Enthusiast • Frontend Developer</b>
 </p>
 
 <p align="center">
-  Passionate about building useful, modern, and user-friendly mobile applications.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Developer;Always+Learning+New+Things;Building+Ideas+Into+Reality" />
+Building useful applications while continuously learning new technologies.
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a vocational high school student from Indonesia who enjoys developing mobile applications using Flutter.
-
-I love turning ideas into real applications while continuously improving my skills in mobile development, backend integration, and UI/UX design. I believe every project is an opportunity to learn something new and become a better developer.
-
-Currently, I'm expanding my knowledge in backend development, REST API integration, and software architecture.
+- 🎓 Vocational High School student majoring in Software Engineering (RPL)
+- 📱 Interested in Mobile Application Development
+- 💙 Passionate about Flutter, Dart, Firebase, and UI Design
+- 🌱 Currently learning Backend Development and API Integration
+- 🚀 Always excited to build applications that solve real problems
 
 ---
 
-# 🚀 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+### Mobile Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,laravel,php,mysql,git,github,vscode,figma,postman" />
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+</p>
 
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeyzaNadineKusumaRamadani&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyzaNadineKusumaRamadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KeyzaNadineKusumaRamadani&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyzaNadineKusumaRamadani&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KeyzaNadineKusumaRamadani&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 💻 Featured Projects
-
-### 🥗 MoreLeaf
-
-Healthy food marketplace application designed to promote nutritious eating habits through a modern and user-friendly mobile experience.
+### 🌿 Moreleaf
+A healthy food marketplace designed to connect local healthy food businesses with customers through an easy-to-use digital platform.
 
 **Tech Stack**
-
 - Flutter
-- Firebase
-- REST API
-
----
-
-### 🛒 Groceries
-
-A grocery shopping application with product catalog, shopping cart, and clean user interface.
-
-**Tech Stack**
-
-- Flutter
-- Firebase
-
----
-
-### 💧 PDAM Management System
-
-An administrative application for managing customer data, billing, and water service operations.
-
-**Tech Stack**
-
-- Flutter
-- Laravel
+- PHP
 - MySQL
-
----
-
-### 🥽 ARchive
-
-An innovative business project developed for FIKSI that combines physical souvenirs with Augmented Reality to create interactive digital experiences.
-
----
-
-# 🌱 Currently Learning
-
-- Flutter Clean Architecture
 - REST API
+
+---
+
+### 💧 Water Utility Management App
+A mobile application that helps customers manage water bills, monitor usage, and receive service information.
+
+**Tech Stack**
+- Flutter
+- REST API
+- MySQL
+- PHP
+
+---
+
+### 🌐 Personal Portfolio Website
+
+Visit my portfolio:
+
+🔗 https://web-portofolio-fawn-alpha.vercel.app/
+
+---
+
+## 🎯 Currently Learning
+
+- Clean Architecture
+- State Management (GetX)
+- REST API Integration
+- Firebase Authentication
+- Mobile UI/UX
 - Backend Development
-- Firebase
-- State Management
-- Software Engineering Best Practices
 
 ---
 
-# 🌐 Portfolio
+## 📫 Connect With Me
 
-Visit my portfolio website:
+- 🌐 Portfolio
+  https://web-portofolio-fawn-alpha.vercel.app/
 
-### 🔗 https://web-portofolio-fawn-alpha.vercel.app/
+- 💼 GitHub
+  https://github.com/KeyzaNadineKusumaRamadani
 
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/KeyzaNadineKusumaRamadani">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+- 📧 Email
+  your-email@example.com
 
 ---
 
-# 👀 Profile Visitors
+## 💡 Quote
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=KeyzaNadineKusumaRamadani&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
-
-</p>
+> "Learning by building, improving by practicing."
 
 ---
 
 <p align="center">
-
-<i>"Every line of code is a step toward becoming a better developer."</i>
-
-⭐ Thanks for visiting my GitHub profile!
-
+Thanks for visiting my profile! ⭐
 </p>
