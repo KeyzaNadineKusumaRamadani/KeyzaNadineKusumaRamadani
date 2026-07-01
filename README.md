@@ -1,104 +1,169 @@
-<h1 align="center">Hi, I'm Keyza Nadine Kusuma Ramadani 👋</h1>
+<h1 align="center">Hi there, I'm Keyza Nadine Kusuma Ramadani 👋</h1>
 
 <p align="center">
-  <b>Mobile App Developer • Flutter Enthusiast • UI Explorer</b>
+  <b>Flutter Mobile Developer • UI Enthusiast • Vocational High School Student</b>
 </p>
 
 <p align="center">
-  I enjoy turning ideas into mobile applications that are simple, useful, and easy to use.
+  Passionate about building useful, modern, and user-friendly mobile applications.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Developer;Always+Learning+New+Things;Building+Ideas+Into+Reality" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I'm a vocational high school student from Indonesia with a strong interest in mobile application development.
+I'm a vocational high school student from Indonesia who enjoys developing mobile applications using Flutter.
 
-Most of my projects are built using Flutter, and I'm currently exploring backend development, Firebase, and REST API integration. I enjoy learning by building real projects and continuously improving both my coding and UI design skills.
+I love turning ideas into real applications while continuously improving my skills in mobile development, backend integration, and UI/UX design. I believe every project is an opportunity to learn something new and become a better developer.
 
-Outside of programming, I also enjoy participating in creative activities, which helps me bring a different perspective when designing applications.
+Currently, I'm expanding my knowledge in backend development, REST API integration, and software architecture.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,laravel,php,nodejs,mysql,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,laravel,php,mysql,git,github,vscode,figma,postman" />
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeyzaNadineKusumaRamadani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyzaNadineKusumaRamadani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=KeyzaNadineKusumaRamadani&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyzaNadineKusumaRamadani&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KeyzaNadineKusumaRamadani&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 💻 Featured Projects
 
 ### 🥗 MoreLeaf
-A healthy food marketplace application that helps users discover nutritious meals and promotes healthier eating habits.
 
-**Built with:** Flutter • Firebase • REST API
+Healthy food marketplace application designed to promote nutritious eating habits through a modern and user-friendly mobile experience.
+
+**Tech Stack**
+
+- Flutter
+- Firebase
+- REST API
 
 ---
 
 ### 🛒 Groceries
 
-A simple grocery shopping application with product management, shopping cart, and modern user interface.
+A grocery shopping application with product catalog, shopping cart, and clean user interface.
 
-**Built with:** Flutter • Firebase
+**Tech Stack**
+
+- Flutter
+- Firebase
 
 ---
 
 ### 💧 PDAM Management System
 
-An administrative application designed to manage customer data, billing information, and water service operations.
+An administrative application for managing customer data, billing, and water service operations.
 
-**Built with:** Flutter • Laravel • MySQL
+**Tech Stack**
+
+- Flutter
+- Laravel
+- MySQL
 
 ---
 
 ### 🥽 ARchive
 
-A business innovation project developed for FIKSI that combines physical souvenirs with Augmented Reality to create interactive digital experiences.
+An innovative business project developed for FIKSI that combines physical souvenirs with Augmented Reality to create interactive digital experiences.
 
 ---
 
-## 🌐 Portfolio
+# 🌱 Currently Learning
 
-Take a look at some of my work here:
-
-🔗 **https://web-portofolio-fawn-alpha.vercel.app/**
+- Flutter Clean Architecture
+- REST API
+- Backend Development
+- Firebase
+- State Management
+- Software Engineering Best Practices
 
 ---
 
-## 📈 GitHub Activity
+# 🌐 Portfolio
 
-<p align="center">
+Visit my portfolio website:
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KeyzaNadineKusumaRamadani&theme=tokyonight"/>
+### 🔗 https://web-portofolio-fawn-alpha.vercel.app/
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/KeyzaNadineKusumaRamadani">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 👀 Profile Visitors
 
-- Flutter Clean Architecture
-- Backend Development
-- REST API
-- Firebase
-- State Management
-- UI/UX Design
+<p align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=KeyzaNadineKusumaRamadani&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 
-## 📫 Let's Connect
-
-- 🌐 Portfolio : https://web-portofolio-fawn-alpha.vercel.app/
-- 💻 GitHub : https://github.com/KeyzaNadineKusumaRamadani
+</p>
 
 ---
 
 <p align="center">
 
-<i>"Every project is an opportunity to learn something new."</i>
+<i>"Every line of code is a step toward becoming a better developer."</i>
+
+⭐ Thanks for visiting my GitHub profile!
 
 </p>
