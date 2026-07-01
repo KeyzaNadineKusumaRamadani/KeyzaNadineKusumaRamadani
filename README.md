@@ -140,15 +140,28 @@ Visit my portfolio website:
 
 ---
 
-# 👀 Profile Visitors
+## 📫 Connect With Me
 
-<p align="center">
+- 🌐 Portfolio
+  https://web-portofolio-fawn-alpha.vercel.app/
 
-<img src="https://komarev.com/ghpvc/?username=KeyzaNadineKusumaRamadani&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+- 💼 GitHub
+  https://github.com/KeyzaNadineKusumaRamadani
 
-</p>
+- 📧 Email
+  your-email@example.com
 
 ---
+
+## 💡 Quote
+
+> "Learning by building, improving by practicing."
+
+---
+
+<p align="center">
+Thanks for visiting my profile! ⭐
+</p>
 
 <p align="center">
 
