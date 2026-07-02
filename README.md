@@ -149,7 +149,7 @@ Visit my portfolio website:
   https://github.com/KeyzaNadineKusumaRamadani
 
 - 📧 Email
-  your-email@example.com
+  nadinkusuma21@gmail.com
 
 ---
 
